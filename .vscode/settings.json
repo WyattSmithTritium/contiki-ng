@@ -6,6 +6,7 @@
     "ios": "c",
     "istream": "c",
     "ostream": "c",
-    "xstring": "c"
+    "xstring": "c",
+    "orchestra-conf.h": "c"
   }
 }
