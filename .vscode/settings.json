@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "contiki.h": "c",
+    "sixtop.h": "c",
+    "charconv": "c",
+    "ios": "c",
+    "istream": "c",
+    "ostream": "c",
+    "xstring": "c"
+  }
+}
